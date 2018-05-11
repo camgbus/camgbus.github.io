@@ -54,6 +54,12 @@
 		-webkit-text-size-adjust: none;
 	}
 
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1634,7 +1640,7 @@
 		}
 
 	body {
-		background-color: var(--color-3);
+		background-color: #f7c0c0;
 		color: #444;
 	}
 
@@ -3738,7 +3744,7 @@
 		}
 
 			#header > .logo a {
-				font-size: 1.25em;
+				font-size: 1em;
 				color: #262626;
 				text-decoration: none;
 			}
