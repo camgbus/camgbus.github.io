@@ -4162,8 +4162,8 @@ img {
 				position: absolute;
 				top: 0;
 				left: 0;
-				background: #000;
-				opacity: 0.35;
+				background: #fff;
+				opacity: 0.15;
 			}
 
 			.banner > article .inner {
